@@ -1,0 +1,208 @@
+Dell XPS 13 9310
+HP Pavilion Plus 14
+Lenovo ThinkPad X1 Extreme Gen 4
+Asus ZenBook S 13 OLED
+Acer Aspire 5 A515-46-R3UB
+Microsoft Surface Laptop 4 13.5"
+HP Envy x360 15-eu1097nr
+Lenovo Legion 5i Pro 16IAH7
+Dell G5 15 SE 5505
+Asus ROG Zephyrus G14 GA401
+Razer Blade 15 Base Model
+HP Spectre x360 14t-ea000
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell Alienware x15 R1
+Acer Swift 3X SF314-510G
+MSI Stealth 15M A11UEK
+Huawei MateBook 14 2021
+Asus VivoBook Pro 16X OLED M7600
+HP Omen 17t-cb000
+Lenovo ThinkPad P1 Gen 4
+Dell Inspiron 16 Plus 7610
+Acer ConceptD 3 Ezel CC314-72G
+Asus TUF Dash F15 FX516
+HP Spectre x360 15t-eb000
+Lenovo Yoga 9i 14ITL5
+Dell G7 17-7700
+Acer Swift 5 SF514-55T
+Asus ZenBook Pro Duo 15 OLED UX582
+HP Pavilion Aero 13-be0097nr
+Lenovo IdeaPad Flex 5i 14IIL05
+Dell XPS 15 9510
+HP Spectre x360 16
+Lenovo ThinkPad X1 Carbon Gen 9
+Asus ZenBook Pro Duo 15 OLED UX582
+Acer Swift 5 SF514-55T
+Microsoft Surface Laptop Studio
+HP Omen 17t-cb000
+Lenovo Legion 7 16ACHg6
+Dell G7 17-7700
+Asus ROG Zephyrus G15 GA503
+Razer Blade 14
+HP Envy x360 15t-ed100
+Lenovo ThinkPad P15v Gen 2
+Dell Alienware m17 R4
+Acer Predator Triton 500 SE PT516-51s
+MSI Creator 17 A10SE
+Huawei MateBook X Pro 2021 OLED
+Asus VivoBook Pro 16X OLED M7600
+HP Spectre x360 14t-ea000
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell Inspiron 16 Plus 7610
+Acer Swift X SFX14-41G
+Asus TUF Dash F15 FX516
+HP Pavilion Aero 13-be0097nr
+Lenovo ThinkPad X1 Fold
+Dell G5 15 SE 5505
+Acer ConceptD 3 Ezel CC314-72G
+Asus ROG Strix Scar 17 G733
+HP Spectre x360 15t-eb000
+Lenovo IdeaPad Flex 5i 14IIL05
+Dell Latitude 9510
+HP ZBook Fury 15 G7
+Lenovo ThinkPad X1 Fold
+Asus ROG Zephyrus S17 GX703
+Acer Predator Triton 500 SE PT516-51s
+Microsoft Surface Book 3 15"
+HP Spectre x360 14t-ea000
+Lenovo Legion 5 Pro 16ACH6H
+Dell XPS 17 9710
+Asus ZenBook Pro Duo 15 OLED UX582
+Razer Blade 15 Advanced Model
+HP Envy x360 15t-ed100
+Lenovo ThinkPad P15 Gen 2
+Dell Alienware x17 R1
+Acer Swift X SFX14-41G
+MSI Creator Z16 A11UET
+Huawei MateBook X Pro 2021 OLED
+Asus VivoBook Pro 16X OLED M7600
+HP Omen 17t-cb000
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell G5 15 SE 5505
+Acer Aspire 7 A715-42G
+Asus TUF Dash F15 FX516
+HP Pavilion Aero 13-be0097nr
+Lenovo ThinkPad X1 Yoga Gen 6
+Dell Inspiron 16 Plus 7610
+Acer ConceptD 3 Ezel CC314-72G
+Asus ROG Strix Scar 17 G733
+HP Spectre x360 15t-eb000
+Lenovo IdeaPad Flex 5i 14IIL05
+Dell Latitude 7320
+HP Spectre x360 13t
+Lenovo ThinkPad X12 Detachable
+Asus ZenBook 14 UX425
+Acer Predator Helios 300 PH315-53
+Microsoft Surface Pro 8
+HP Omen 17t
+Lenovo IdeaPad Flex 5 14IIL05
+Dell Inspiron 16 7610
+Asus ROG Flow X13
+Razer Blade 15 Advanced
+HP Envy x360 15t-ed000
+Lenovo Legion 5 Pro 16ACH6H
+Dell XPS 15 9510
+Acer Swift 3X SF314-510G
+MSI Prestige 14 Evo A11M
+Huawei MateBook 14 2021
+Asus ZenBook Pro Duo 15 OLED UX582
+HP Pavilion 15-eg0093cl
+Lenovo Yoga 9i 14ITL5
+Dell G5 15 5510
+Acer Nitro 5 AN515-55
+Asus VivoBook S15 S533EQ
+HP Spectre x360 14-ea0023dx
+Lenovo ThinkPad X1 Extreme Gen 4
+Dell Inspiron 15 5515
+Acer Aspire 7 A715-42G
+Asus TUF Dash F15 FX516
+HP Omen 16t-b000
+Lenovo IdeaPad Slim 7 Carbon 14ITL5
+Dell Precision 3560
+HP EliteBook 840 Aero G8
+Lenovo ThinkPad X1 Titanium Yoga
+Asus ZenBook Duo 14 UX482
+Acer Swift 3 SF314-59
+Microsoft Surface Laptop 4 15"
+HP Pavilion Aero 13-be0097nr
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell Alienware m15 R6
+Asus ROG Strix Scar 17 G733
+Razer Blade 17 Pro
+HP Spectre x360 15t-eb000
+Lenovo Legion 7 16ACHg6
+Dell XPS 13 9310
+Acer ConceptD 3 Ezel CC314-72G
+MSI GE76 Raider 11UH
+Huawei MateBook X Pro 2021
+Asus ZenBook Pro Duo 15 OLED UX582
+HP Omen 17t-cb000
+Lenovo ThinkPad P1 Gen 4
+Dell G7 17-7700
+Acer Predator Triton 500 SE PT516-51s
+Asus VivoBook Pro 16X OLED M7600
+HP Envy x360 15t-ed100
+Lenovo IdeaPad Flex 5i 14IIL05
+Dell Inspiron 16 Plus 7610
+Acer Aspire 5 A515-56-50RS
+Asus TUF Gaming F15 FX506
+HP Spectre x360 14t-ea000
+Lenovo ThinkBook 13s Gen 2 ITL
+Dell Latitude 9510
+HP ZBook Fury 15 G7
+Lenovo ThinkPad X1 Fold
+Asus ROG Zephyrus S17 GX703
+Acer Predator Triton 500 SE PT516-51s
+Microsoft Surface Book 3 15"
+HP Spectre x360 14t-ea000
+Lenovo Legion 5 Pro 16ACH6H
+Dell XPS 17 9710
+Asus ZenBook Pro Duo 15 OLED UX582
+Razer Blade 15 Advanced Model
+HP Envy x360 15t-ed100
+Lenovo ThinkPad P15 Gen 2
+Dell Alienware x17 R1
+Acer Swift X SFX14-41G
+MSI Creator Z16 A11UET
+Huawei MateBook X Pro 2021 OLED
+Asus VivoBook Pro 16X OLED M7600
+HP Omen 17t-cb000
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell G5 15 SE 5505
+Acer Aspire 7 A715-42G
+Asus TUF Dash F15 FX516
+HP Pavilion Aero 13-be0097nr
+Lenovo ThinkPad X1 Yoga Gen 6
+Dell Inspiron 16 Plus 7610
+Acer ConceptD 3 Ezel CC314-72G
+Asus ROG Strix Scar 17 G733
+HP Spectre x360 15t-eb000
+Lenovo IdeaPad Flex 5i 14IIL05
+Lenovo ThinkPad X1 Extreme Gen 4
+Asus ZenBook S 13 OLED
+Acer Aspire 5 A515-46-R3UB
+Microsoft Surface Laptop 4 13.5"
+HP Envy x360 15-eu1097nr
+Lenovo Legion 5i Pro 16IAH7
+Dell G5 15 SE 5505
+Asus ROG Zephyrus G14 GA401
+Razer Blade 15 Base Model
+HP Spectre x360 14t-ea000
+Lenovo IdeaPad 5 Pro 16ACH6
+Dell Alienware x15 R1
+Acer Swift 3X SF314-510G
+MSI Stealth 15M A11UEK
+Huawei MateBook 14 2021
+Asus VivoBook Pro 16X OLED M7600
+HP Omen 17t-cb000
+Lenovo ThinkPad P1 Gen 4
+Dell Inspiron 16 Plus 7610
+Acer ConceptD 3 Ezel CC314-72G
+Asus TUF Dash F15 FX516
+HP Spectre x360 15t-eb000
+Lenovo Yoga 9i 14ITL5
+Dell G7 17-7700
+Acer Swift 5 SF514-55T
+Asus ZenBook Pro Duo 15 OLED UX582
+HP Pavilion Aero 13-be0097nr
+Lenovo IdeaPad Flex 5i 14IIL05
