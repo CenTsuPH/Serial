@@ -206,3 +206,253 @@ Acer Swift 5 SF514-55T
 Asus ZenBook Pro Duo 15 OLED UX582
 HP Pavilion Aero 13-be0097nr
 Lenovo IdeaPad Flex 5i 14IIL05
+Dell Vostro 14 5000
+HP Elite Dragonfly
+Lenovo IdeaPad 3 15
+Asus Chromebook Flip C436
+Acer Chromebook 514
+Microsoft Surface Go 3
+HP ZBook Firefly 15 G8
+Lenovo ThinkBook 14s Yoga
+Dell Inspiron 13 5310
+Asus ProArt StudioBook 16
+Acer Enduro N3
+Razer Book 13
+HP EliteBook x360 1040 G8
+Lenovo Yoga Slim 7 Pro
+Dell Precision 3560
+Asus ExpertBook B9
+Acer ConceptD 3 Ezel
+Microsoft Surface Laptop SE
+HP Chromebook x360 14c
+Lenovo Legion Y740
+Asus VivoBook Flip 14
+Dell G15 Ryzen Edition
+Acer TravelMate P6
+MSI Summit E13 Flip Evo
+Huawei MateBook E
+Asus ZenBook Flip S13 OLED
+HP ProBook 450 G8
+Lenovo ThinkPad L15
+Dell XPS 13 Plus
+Acer Aspire Vero
+Asus ROG Zephyrus Duo 15
+HP Pavilion Gaming 15
+Lenovo IdeaPad 1
+Dell Alienware x17
+Acer Aspire C27
+Asus Chromebook C223
+HP Stream 14
+Lenovo ThinkPad E15
+Dell Latitude 3420
+Asus VivoBook 17
+Acer Swift 1
+HP EliteBook 850 G8
+Lenovo Chromebook Duet
+Dell Inspiron 14 5000
+Asus ZenBook 15
+MSI GL75 Leopard
+Huawei MateBook D14
+HP Chromebook 11
+Lenovo ThinkPad T15
+Dell Vostro 15 3000
+Asus TUF Gaming A17
+Acer Predator Triton 300
+Microsoft Surface Pro X
+HP ZBook Fury 17 G8
+Lenovo Yoga Slim 9i
+Dell Inspiron 13 7000
+Asus ROG Strix Scar 15
+Acer Spin 5
+MSI Bravo 15
+Huawei MateBook X
+Asus VivoBook 15
+HP ProBook x360 435 G8
+Lenovo Legion 5i
+Dell Latitude 7420
+Acer Chromebook 317
+Asus ZenBook Flip 15
+HP Envy 14
+Lenovo Yoga C740
+Dell Alienware m15 Ryzen Edition
+Acer Aspire 1
+Asus Chromebook Flip CM5
+HP Pavilion 14
+Lenovo ThinkPad X13
+Dell XPS 17 9700
+Asus ExpertBook P2
+Acer Enduro Urban N3
+Razer Blade 17
+HP EliteBook 845 G8
+Lenovo ThinkPad P15
+Dell Precision 5750
+Asus ProArt Studiobook Pro 17
+Acer TravelMate Spin B3
+Microsoft Surface Laptop 5
+HP Chromebook 14
+Lenovo IdeaPad Flex 3
+Dell Inspiron 15 3000
+Asus ROG Zephyrus S17
+Acer Predator Helios 500
+MSI GE66 Raider
+Huawei MateBook 13
+Asus VivoBook S14
+HP Omen 15-en1000
+Lenovo ThinkPad L14
+Dell Latitude 5520
+Asus ZenBook 14X OLED
+Acer Swift 7
+HP EliteBook x360 830 G8
+Lenovo Chromebook Flex 5
+Dell Inspiron 16 Plus 7610
+Asus TUF Gaming F15
+Acer Aspire 5 Slim
+Microsoft Surface Laptop 3
+HP Pavilion x360 14
+Lenovo IdeaPad Gaming 3i
+Dell G7 15
+Asus Chromebook CX9
+Acer Chromebook Spin 514
+Razer Blade 15 Base
+HP Spectre Folio
+Lenovo Yoga 6 13ARE05
+Dell Precision 7560
+Asus VivoBook 14
+Acer Aspire 3
+MSI Prestige 15
+Huawei MateBook D 14
+Asus ZenBook Duo 14 UX482
+HP Chromebook x2
+Lenovo ThinkPad X1 Titanium Yoga
+Dell Inspiron 14 5406
+Asus ROG Zephyrus G14 GA401
+Acer Swift 7 SF714-52T
+Microsoft Surface Duo
+HP EliteBook 830 G8
+Lenovo Legion 5 15
+Dell Latitude 3520
+Asus VivoBook 15 X515
+Acer Chromebook 311
+Razer Blade Stealth 13 GTX
+HP Envy 13
+Lenovo IdeaPad S145
+Dell XPS 13 9310
+Asus ExpertBook B1
+Acer Aspire 7 A717-72G
+MSI Modern 15
+Huawei MateBook 14 AMD
+Asus ZenBook 13 UX325
+HP Pavilion 13
+Lenovo ThinkPad C13 Yoga Chromebook
+Dell Precision 3551
+Asus VivoBook Flip 12
+Acer Spin 3
+HP ProBook 640 G8
+Lenovo Yoga C940
+Dell G5 15 SE 5505
+Asus TUF Gaming FX505
+Acer Predator Triton 700
+MSI GF75 Thin
+Huawei MateBook X Pro 2021
+Asus ZenBook 14 UX435
+HP EliteBook 840 Aero G8
+Lenovo ThinkPad T14s
+Dell Latitude 7420 2-in-1
+Asus VivoBook 15 K513
+Acer Aspire 7 A715-41G
+Razer Blade 15 Studio Edition
+HP Envy 17
+Lenovo IdeaPad 5 14
+Dell XPS 15 9500
+Asus Chromebook Flip C434
+Acer Nitro 7
+MSI Creator Z16
+Huawei MateBook D15
+Asus ZenBook S13 OLED
+HP Pavilion x360 15
+Lenovo ThinkPad E15 Gen 2
+Dell Latitude 9420
+Asus VivoBook 14 K413
+Acer Chromebook R13
+Microsoft Surface Pro 7+
+HP EliteBook 1030 G8
+Lenovo Legion Y540
+Dell Inspiron 14 5410
+Asus ROG Strix G17
+Acer Swift 3 SF314-42
+MSI GS76 Stealth
+Huawei MateBook X 2021
+Asus VivoBook 17 X712
+HP Omen 17-cb1000
+Lenovo Yoga Slim 7i
+Dell Precision 5550 Mobile Workstation
+Asus Chromebook Flip C302
+Acer Aspire 7 A715-75G
+MSI Prestige 14
+Huawei MateBook 13 2021
+Asus ZenBook 14 UX433
+HP Pavilion 15-eg
+Lenovo ThinkPad X1 Fold
+Dell Latitude 9510 2-in-1
+Asus VivoBook 15 F512
+Acer Chromebook 15
+Microsoft Surface Book 2
+HP EliteBook x360 1020 G2
+Lenovo Flex 5 Chromebook
+Dell Inspiron 15 Plus
+Asus ROG Zephyrus M15
+Acer Predator X34
+MSI GL65 Leopard
+Huawei MateBook D 16
+Asus ZenBook Flip 14 Q407
+HP Spectre x360 15t-eb100
+Dell Inspiron 14 5400
+HP Chromebook 11a
+Lenovo ThinkPad L15 Gen 2
+Asus VivoBook Flip 14 TM420
+Acer Aspire 5 A514-54
+Microsoft Surface Laptop 4 15"
+HP Envy x360 13-ay
+Lenovo Yoga 7i 15
+Dell Latitude 3420
+Asus ROG Flow Z13
+Acer Chromebook 314
+Razer Blade 14 2022
+HP Elite Dragonfly Max
+Lenovo IdeaPad 5i Pro
+Dell XPS 13 2-in-1 7390
+Asus VivoBook S14 S433
+Acer Aspire 5 A515-56
+MSI GE75 Raider
+Huawei MateBook 14 2022
+Asus ZenBook Flip 15 UX563
+HP Pavilion Gaming 16
+Lenovo Legion Y7000
+Dell G3 3590
+Asus ZenBook 14 UX434
+Acer Swift 5 SF514-55T
+Microsoft Surface Pro 7
+HP Spectre x360 14t
+Lenovo IdeaPad 3 14
+Dell Latitude 7420 Laptop
+Asus VivoBook 15 X512
+Acer Chromebook Spin 11
+Razer Blade 15 Studio
+HP EliteBook 850 G7
+Lenovo ThinkPad L13 Yoga
+Dell Inspiron 15 5593
+Asus ROG Zephyrus G15 GA503
+Acer Nitro 5 AN517-54
+MSI Modern 14 B11MO
+Huawei MateBook E 2022
+Asus VivoBook Flip 14 TP470
+HP Pavilion 14-ce
+Lenovo Yoga C740-14IML
+Dell XPS 13 9380
+Asus Chromebook Flip CM3
+Acer Aspire 7 A715-42G
+MSI GF63 Thin
+Huawei MateBook X Pro 2022
+Asus ZenBook Pro 15
+HP Chromebook 14-db
+Lenovo ThinkPad X1 Extreme Gen 3
